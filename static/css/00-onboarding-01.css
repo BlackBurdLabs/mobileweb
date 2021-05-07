@@ -1,0 +1,2778 @@
+/* screen - 00-onboarding-04 */
+
+.x00-onboarding-04 {
+  background-color: #ffffff;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x00-onboarding-04 .base-Zho80r {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .battery-pdgCJr {
+  --z-index: 1;
+  background-color: transparent;
+  height: 11px;
+  opacity: 1;
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  width: 24px;
+}
+.x00-onboarding-04 .bitmap-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/bitmap-1@1x.png);
+  background-size: 100% 100%;
+  height: 248px;
+  left: calc(43.19% - 70px);
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 110px;
+  width: 162px;
+}
+.x00-onboarding-04 .blur-FnGo4v {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blur-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x00-onboarding-04 .combined-shape-31ZkUb {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/cap-path-10@1x.png);
+  background-size: 100% 100%;
+  height: 35.29%;
+  left: 94.54%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 32.35%;
+  width: 5.46%;
+}
+.x00-onboarding-04 .display-shape-GUNvJx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/display-shape-10@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-04 .fill-1-x5wxKS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/fill-1-16@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x00-onboarding-04 .gradient-bot-FnGo4v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/gradient-bot-10@1x.png);
+  background-size: 100% 100%;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x00-onboarding-04 .gradient-mid-FnGo4v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/gradient-mid-10@1x.png);
+  background-size: 100% 100%;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x00-onboarding-04 .gradient-top-FnGo4v {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/gradient-top-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x00-onboarding-04 .group-24-4ArZv5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x00-onboarding-04 .group-4-FnGo4v {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-04 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 48px;
+}
+.x00-onboarding-04 .i-os-ui-elements-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x00-onboarding-04 .left-padding-jgLd7b {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/left-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-04 .mask-group-10-Zho80r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-10-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .mask-group-30-x5wxKS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-30-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .mobile-signal-pdgCJr {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/mobile-signal-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 64px;
+  top: 18px;
+  width: 17px;
+}
+.x00-onboarding-04 .no-more-lights-turne-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 348px;
+  color: #ffffff;
+  font-family: 'SFUIText-Semibold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 71px;
+  left: 32px;
+  letter-spacing: 0.67px;
+  line-height: 37px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 83.47%;
+}
+.x00-onboarding-04 .number-jgLd7b {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Bold', Helvetica;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+  height: 13px;
+  letter-spacing: 0.70px;
+  line-height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  text-align: right;
+  top: 0px;
+  width: 70.59%;
+}
+.x00-onboarding-04 .paginate-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: 74px;
+  height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 71px);
+  width: 142px;
+}
+.x00-onboarding-04 .rectangle-3-jgLd7b {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-2@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .rectangle-31ZkUb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-11@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 90.43%;
+}
+.x00-onboarding-04 .rectangle-9-PeGACK {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: calc(26.87% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-04 .rectangle-9-UpXRxf {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-04 .rectangle-9-ZpcRC2 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-04 .rectangle-9-aqVPtx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-04 .rectangle-9-u5rsk5 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-13@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(40.00% - 21px);
+  top: 0px;
+  width: 52px;
+}
+.x00-onboarding-04 .rectangle-9-xJvVAQ {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-04 .rectangle-PHscYF {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-12@1x.png);
+  background-size: 100% 100%;
+  height: 64.71%;
+  left: 8.22%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17.65%;
+  width: 73.99%;
+}
+.x00-onboarding-04 .rectangle-q4vsoZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-13@1x.png);
+  background-size: 100% 100%;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x00-onboarding-04 .right-padding-jgLd7b {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/right-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-04 .time-style-pdgCJr {
+  --z-index: 4;
+  background-color: transparent;
+  height: 47.73%;
+  left: 5.60%;
+  opacity: 1;
+  position: absolute;
+  top: 27.27%;
+  width: 14.40%;
+}
+.x00-onboarding-04 .ui-bars-home-in-dark-background-q4vsoZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x00-onboarding-04 .ui-bars-status-bars-white-base-GUNvJx {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .ui-bars-status-base-background-pdgCJr {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .ui-bars-status-time-background-xrX4P7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .ui-bg-dark-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .ui-dark-header-fication-status-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: -305px;
+  top: calc(35.71% - 7px);
+  width: 17px;
+}
+.x00-onboarding-04 .ui-dark-icons-arrow-back-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-04 .wifi-pdgCJr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/wifi-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 44px;
+  top: 17px;
+  width: 15px;
+}
+.x00-onboarding-04 .x941-xrX4P7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFProText-Semibold', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 9.52%;
+  width: calc(100.00% + 2px);
+}
+.x00-onboarding-04 .you-dont-have-to-wo-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(34.17% - 25px);
+  color: #a0a4db;
+  font-family: 'SFUIText-Light', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: 73px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 93px);
+}
+/* screen - 00-onboarding-05 */
+
+.x00-onboarding-05 {
+  background-color: #ffffff;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x00-onboarding-05 .base-Zho80r {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .battery-pdgCJr {
+  --z-index: 1;
+  background-color: transparent;
+  height: 11px;
+  opacity: 1;
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  width: 24px;
+}
+.x00-onboarding-05 .bitmap-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/bitmap-4@1x.png);
+  background-size: 100% 100%;
+  height: 223px;
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 56px;
+  top: calc(22.58% - 50px);
+  width: 227px;
+}
+.x00-onboarding-05 .blur-FnGo4v {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blur-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x00-onboarding-05 .combined-shape-31ZkUb {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/cap-path-10@1x.png);
+  background-size: 100% 100%;
+  height: 35.29%;
+  left: 94.54%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 32.35%;
+  width: 5.46%;
+}
+.x00-onboarding-05 .display-shape-GUNvJx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/display-shape-10@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-05 .fill-1-x5wxKS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/fill-1-16@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x00-onboarding-05 .get-more-time-for-yo-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 348px;
+  color: #ffffff;
+  font-family: 'SFUIText-Semibold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 71px;
+  left: 32px;
+  letter-spacing: 0.67px;
+  line-height: 37px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 83.47%;
+}
+.x00-onboarding-05 .gradient-bot-FnGo4v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/gradient-bot-10@1x.png);
+  background-size: 100% 100%;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x00-onboarding-05 .gradient-mid-FnGo4v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/gradient-mid-10@1x.png);
+  background-size: 100% 100%;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x00-onboarding-05 .gradient-top-FnGo4v {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/gradient-top-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x00-onboarding-05 .group-24-4ArZv5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x00-onboarding-05 .group-4-FnGo4v {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-05 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 48px;
+}
+.x00-onboarding-05 .i-os-ui-elements-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x00-onboarding-05 .left-padding-jgLd7b {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/left-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-05 .mask-group-10-Zho80r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-10-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .mask-group-30-x5wxKS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-30-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .mobile-signal-pdgCJr {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/mobile-signal-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 64px;
+  top: 18px;
+  width: 17px;
+}
+.x00-onboarding-05 .number-jgLd7b {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Bold', Helvetica;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+  height: 13px;
+  letter-spacing: 0.70px;
+  line-height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  text-align: right;
+  top: 0px;
+  width: 70.59%;
+}
+.x00-onboarding-05 .paginate-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: 74px;
+  height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 71px);
+  width: 142px;
+}
+.x00-onboarding-05 .rectangle-3-jgLd7b {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-2@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .rectangle-31ZkUb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-11@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 90.43%;
+}
+.x00-onboarding-05 .rectangle-9-PeGACK {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: calc(26.87% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-05 .rectangle-9-UpXRxf {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-05 .rectangle-9-ZpcRC2 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-05 .rectangle-9-aqVPtx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-05 .rectangle-9-u5rsk5 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-13@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: 0px;
+  width: 52px;
+}
+.x00-onboarding-05 .rectangle-9-xJvVAQ {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: calc(40.30% - 3px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-05 .rectangle-PHscYF {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-12@1x.png);
+  background-size: 100% 100%;
+  height: 64.71%;
+  left: 8.22%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17.65%;
+  width: 73.99%;
+}
+.x00-onboarding-05 .rectangle-q4vsoZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-13@1x.png);
+  background-size: 100% 100%;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x00-onboarding-05 .right-padding-jgLd7b {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/right-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-05 .time-style-pdgCJr {
+  --z-index: 4;
+  background-color: transparent;
+  height: 47.73%;
+  left: 5.60%;
+  opacity: 1;
+  position: absolute;
+  top: 27.27%;
+  width: 14.40%;
+}
+.x00-onboarding-05 .ui-bars-home-in-dark-background-q4vsoZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x00-onboarding-05 .ui-bars-status-bars-white-base-GUNvJx {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .ui-bars-status-base-background-pdgCJr {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .ui-bars-status-time-background-xrX4P7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .ui-bg-dark-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .ui-dark-header-fication-status-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: -305px;
+  top: calc(35.71% - 7px);
+  width: 17px;
+}
+.x00-onboarding-05 .ui-dark-icons-arrow-back-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-05 .use-automation-proce-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(36.32% - 17px);
+  color: #a0a4db;
+  font-family: 'SFUIText-Light', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: 48px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 93px);
+}
+.x00-onboarding-05 .wifi-pdgCJr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/wifi-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 44px;
+  top: 17px;
+  width: 15px;
+}
+.x00-onboarding-05 .x941-xrX4P7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFProText-Semibold', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 9.52%;
+  width: calc(100.00% + 2px);
+}
+/* screen - 00-onboarding-02 */
+
+.x00-onboarding-02 {
+  background-color: #ffffff;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x00-onboarding-02 .base-Zho80r {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .battery-pdgCJr {
+  --z-index: 1;
+  background-color: transparent;
+  height: 11px;
+  opacity: 1;
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  width: 24px;
+}
+.x00-onboarding-02 .bitmap-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/bitmap-2@1x.png);
+  background-size: 100% 100%;
+  height: 270px;
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(32.63% - 60px);
+  top: 105px;
+  width: 185px;
+}
+.x00-onboarding-02 .blur-FnGo4v {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blur-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x00-onboarding-02 .combined-shape-31ZkUb {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/cap-path-10@1x.png);
+  background-size: 100% 100%;
+  height: 35.29%;
+  left: 94.54%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 32.35%;
+  width: 5.46%;
+}
+.x00-onboarding-02 .create-schedules-and-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(31.86% - 31px);
+  color: #a0a4db;
+  font-family: 'SFUIText-Light', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: 98px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 93px);
+}
+.x00-onboarding-02 .display-shape-GUNvJx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/display-shape-10@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-02 .fill-1-x5wxKS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/fill-1-16@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x00-onboarding-02 .gradient-bot-FnGo4v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/gradient-bot-10@1x.png);
+  background-size: 100% 100%;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x00-onboarding-02 .gradient-mid-FnGo4v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/gradient-mid-10@1x.png);
+  background-size: 100% 100%;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x00-onboarding-02 .gradient-top-FnGo4v {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/gradient-top-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x00-onboarding-02 .group-24-4ArZv5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x00-onboarding-02 .group-4-FnGo4v {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-02 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 48px;
+}
+.x00-onboarding-02 .i-os-ui-elements-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x00-onboarding-02 .left-padding-jgLd7b {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/left-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-02 .mask-group-10-Zho80r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-10-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .mask-group-30-x5wxKS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-30-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .mobile-signal-pdgCJr {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/mobile-signal-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 64px;
+  top: 18px;
+  width: 17px;
+}
+.x00-onboarding-02 .number-jgLd7b {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Bold', Helvetica;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+  height: 13px;
+  letter-spacing: 0.70px;
+  line-height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  text-align: right;
+  top: 0px;
+  width: 70.59%;
+}
+.x00-onboarding-02 .paginate-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: 74px;
+  height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 71px);
+  width: 142px;
+}
+.x00-onboarding-02 .rectangle-3-jgLd7b {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-2@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .rectangle-31ZkUb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-11@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 90.43%;
+}
+.x00-onboarding-02 .rectangle-9-PeGACK {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(26.87% - 2px);
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-02 .rectangle-9-UpXRxf {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-02 .rectangle-9-ZpcRC2 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(40.30% - 3px);
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-02 .rectangle-9-aqVPtx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-02 .rectangle-9-u5rsk5 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-13@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+.x00-onboarding-02 .rectangle-9-xJvVAQ {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-02 .rectangle-PHscYF {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-12@1x.png);
+  background-size: 100% 100%;
+  height: 64.71%;
+  left: 8.22%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17.65%;
+  width: 73.99%;
+}
+.x00-onboarding-02 .rectangle-q4vsoZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-13@1x.png);
+  background-size: 100% 100%;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x00-onboarding-02 .right-padding-jgLd7b {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/right-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-02 .save-energy-and-pay-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 348px;
+  color: #ffffff;
+  font-family: 'SFUIText-Semibold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 71px;
+  left: 32px;
+  letter-spacing: 0.67px;
+  line-height: 37px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 83.47%;
+}
+.x00-onboarding-02 .time-style-pdgCJr {
+  --z-index: 4;
+  background-color: transparent;
+  height: 47.73%;
+  left: 5.60%;
+  opacity: 1;
+  position: absolute;
+  top: 27.27%;
+  width: 14.40%;
+}
+.x00-onboarding-02 .ui-bars-home-in-dark-background-q4vsoZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x00-onboarding-02 .ui-bars-status-bars-white-base-GUNvJx {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .ui-bars-status-base-background-pdgCJr {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .ui-bars-status-time-background-xrX4P7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .ui-bg-dark-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .ui-dark-header-fication-status-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: -305px;
+  top: calc(35.71% - 7px);
+  width: 17px;
+}
+.x00-onboarding-02 .ui-dark-icons-arrow-back-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-02 .wifi-pdgCJr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/wifi-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 44px;
+  top: 17px;
+  width: 15px;
+}
+.x00-onboarding-02 .x941-xrX4P7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFProText-Semibold', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 9.52%;
+  width: calc(100.00% + 2px);
+}
+/* screen - 00-onboarding-01 */
+
+.x00-onboarding-01 {
+  background-color: #ffffff;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x00-onboarding-01 .base-Zho80r {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .battery-pdgCJr {
+  --z-index: 1;
+  background-color: transparent;
+  height: 11px;
+  opacity: 1;
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  width: 24px;
+}
+.x00-onboarding-01 .bitmap-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/bitmap-3@1x.png);
+  background-size: 100% 100%;
+  height: 234px;
+  left: 76px;
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: calc(23.01% - 54px);
+  width: calc(100.00% - 152px);
+}
+.x00-onboarding-01 .blur-FnGo4v {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blur-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x00-onboarding-01 .combined-shape-31ZkUb {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/cap-path-10@1x.png);
+  background-size: 100% 100%;
+  height: 35.29%;
+  left: 94.54%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 32.35%;
+  width: 5.46%;
+}
+.x00-onboarding-01 .display-shape-GUNvJx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/display-shape-10@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-01 .fill-1-x5wxKS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/fill-1-16@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x00-onboarding-01 .gradient-bot-FnGo4v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/gradient-bot-10@1x.png);
+  background-size: 100% 100%;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x00-onboarding-01 .gradient-mid-FnGo4v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/gradient-mid-10@1x.png);
+  background-size: 100% 100%;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x00-onboarding-01 .gradient-top-FnGo4v {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/gradient-top-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x00-onboarding-01 .group-24-4ArZv5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x00-onboarding-01 .group-4-FnGo4v {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-01 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 48px;
+}
+.x00-onboarding-01 .i-os-ui-elements-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x00-onboarding-01 .increase-the-securit-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 348px;
+  color: #ffffff;
+  font-family: 'SFUIText-Semibold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 71px;
+  left: 32px;
+  letter-spacing: 0.67px;
+  line-height: 37px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 83.47%;
+}
+.x00-onboarding-01 .left-padding-jgLd7b {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/left-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-01 .mask-group-10-Zho80r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-10-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .mask-group-30-x5wxKS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-30-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .mobile-signal-pdgCJr {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/mobile-signal-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 64px;
+  top: 18px;
+  width: 17px;
+}
+.x00-onboarding-01 .number-jgLd7b {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Bold', Helvetica;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 700;
+  height: 13px;
+  letter-spacing: 0.70px;
+  line-height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  text-align: right;
+  top: 0px;
+  width: 70.59%;
+}
+.x00-onboarding-01 .paginate-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: 74px;
+  height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 71px);
+  width: 142px;
+}
+.x00-onboarding-01 .rectangle-3-jgLd7b {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-2@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .rectangle-31ZkUb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-11@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 90.43%;
+}
+.x00-onboarding-01 .rectangle-9-PeGACK {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(26.87% - 2px);
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-01 .rectangle-9-UpXRxf {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-01 .rectangle-9-ZpcRC2 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(40.30% - 3px);
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-01 .rectangle-9-aqVPtx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: calc(46.27% - 4px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-01 .rectangle-9-u5rsk5 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-13@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 52px;
+}
+.x00-onboarding-01 .rectangle-9-xJvVAQ {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 18px;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-01 .rectangle-PHscYF {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-12@1x.png);
+  background-size: 100% 100%;
+  height: 64.71%;
+  left: 8.22%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17.65%;
+  width: 73.99%;
+}
+.x00-onboarding-01 .rectangle-q4vsoZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-13@1x.png);
+  background-size: 100% 100%;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x00-onboarding-01 .right-padding-jgLd7b {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/right-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 50.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-01 .set-alarms-independe-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(36.32% - 17px);
+  color: #a1a4d3;
+  font-family: 'SFUIText-Light', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: 48px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 93px);
+}
+.x00-onboarding-01 .time-style-pdgCJr {
+  --z-index: 4;
+  background-color: transparent;
+  height: 47.73%;
+  left: 5.60%;
+  opacity: 1;
+  position: absolute;
+  top: 27.27%;
+  width: 14.40%;
+}
+.x00-onboarding-01 .ui-bars-home-in-dark-background-q4vsoZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x00-onboarding-01 .ui-bars-status-bars-white-base-GUNvJx {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .ui-bars-status-base-background-pdgCJr {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .ui-bars-status-time-background-xrX4P7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .ui-bg-dark-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .ui-dark-header-fication-status-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  height: 20px;
+  opacity: 0;
+  position: absolute;
+  right: -305px;
+  top: calc(35.71% - 7px);
+  width: 17px;
+}
+.x00-onboarding-01 .ui-dark-icons-arrow-back-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-01 .wifi-pdgCJr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/wifi-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 44px;
+  top: 17px;
+  width: 15px;
+}
+.x00-onboarding-01 .x941-xrX4P7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFProText-Semibold', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 9.52%;
+  width: calc(100.00% + 2px);
+}
+/* screen - 00-onboarding-06 */
+
+.x00-onboarding-06 {
+  background-color: #ffffff;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x00-onboarding-06 .base-39IBDr {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-11@1x.png);
+  background-size: 100% 100%;
+  height: 96.15%;
+  left: 0.32%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1.92%;
+  width: 99.36%;
+}
+.x00-onboarding-06 .base-Zho80r {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .bitmap-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/bitmap-5@1x.png);
+  background-size: 100% 100%;
+  height: 193px;
+  mix-blend-mode: lighten;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 55px;
+  top: calc(26.98% - 52px);
+  width: 245px;
+}
+.x00-onboarding-06 .blur-FnGo4v {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blur-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x00-onboarding-06 .button-base-39IBDr {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/button-base-5@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.x00-onboarding-06 .button-base-nVzCyU {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .corner-39IBDr {
+  --z-index: 2;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .corner1-iIM1cK {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/corner1-1@1x.png);
+  background-size: 100% 100%;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-06 .corner2-iIM1cK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/corner1-1@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 3px;
+}
+.x00-onboarding-06 .corner3-iIM1cK {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/corner1-1@1x.png);
+  background-size: 100% 100%;
+  height: 3px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 3px;
+}
+.x00-onboarding-06 .corner4-iIM1cK {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/corner1-1@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 3px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  width: 3px;
+}
+.x00-onboarding-06 .display-shape-GUNvJx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/display-shape-10@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-06 .fill-1-x5wxKS {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/fill-1-16@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x00-onboarding-06 .gradient-bot-FnGo4v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/gradient-bot-10@1x.png);
+  background-size: 100% 100%;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x00-onboarding-06 .gradient-mid-FnGo4v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/gradient-mid-10@1x.png);
+  background-size: 100% 100%;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x00-onboarding-06 .gradient-top-FnGo4v {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/gradient-top-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x00-onboarding-06 .group-24-4ArZv5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x00-onboarding-06 .group-4-FnGo4v {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x00-onboarding-06 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 48px;
+}
+.x00-onboarding-06 .hivo-buttons-pr-mary-background-nVzCyU {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .i-os-ui-elements-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x00-onboarding-06 .make-your-life-eco-f-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 348px;
+  color: #ffffff;
+  font-family: 'SFUIText-Semibold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 71px;
+  left: 32px;
+  letter-spacing: 0.67px;
+  line-height: 37px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 83.47%;
+}
+.x00-onboarding-06 .mask-group-10-Zho80r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-10-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .mask-group-30-x5wxKS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-30-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .name-39IBDr {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  letter-spacing: 3.00px;
+  line-height: 28px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.24% - 63px);
+  text-align: center;
+  top: calc(16.13% - 3px);
+  white-space: nowrap;
+  width: 128px;
+}
+.x00-onboarding-06 .paginate-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  bottom: 74px;
+  height: 8px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 71px);
+  width: 142px;
+}
+.x00-onboarding-06 .rectangle-9-PeGACK {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: calc(26.87% - 2px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-06 .rectangle-9-UpXRxf {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(46.27% - 4px);
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-06 .rectangle-9-ZpcRC2 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 18px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-06 .rectangle-9-aqVPtx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-06 .rectangle-9-u5rsk5 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-13@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 52px;
+}
+.x00-onboarding-06 .rectangle-9-xJvVAQ {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-9-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: calc(40.30% - 3px);
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.x00-onboarding-06 .rectangle-q4vsoZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-13@1x.png);
+  background-size: 100% 100%;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x00-onboarding-06 .spacing-left-nVzCyU {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/spacing-left-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x00-onboarding-06 .spacing-right-nVzCyU {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/spacing-left-1@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 2px);
+  left: 268px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x00-onboarding-06 .ui-bars-home-in-dark-background-q4vsoZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x00-onboarding-06 .ui-bg-dark-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .ui-dark-buttons-base-dark-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  bottom: calc(16.05% - 8px);
+  height: 52px;
+  left: 22px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% - 44px);
+}
+.x00-onboarding-06 .ui-dark-icons-arrow-back-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x00-onboarding-06 .use-renewable-energy-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: calc(36.32% - 17px);
+  color: #a0a4db;
+  font-family: 'SFUIText-Light', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  height: 48px;
+  left: 48px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 93px);
+}

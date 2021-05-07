@@ -1,0 +1,280 @@
+/* screen - 00-welcome-screen */
+
+.x00-welcome-screen {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x00-welcome-screen .base-39IBDr {
+  background-color: transparent;
+  height: 96.15%;
+  left: 0.32%;
+  object-fit: cover;
+  position: absolute;
+  top: 1.92%;
+  width: 99.36%;
+}
+.x00-welcome-screen .base-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-welcome-screen .blur-FnGo4v {
+  background-color: transparent;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x00-welcome-screen .button-base-39IBDr {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.x00-welcome-screen .button-base-nVzCyU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-welcome-screen .corner-39IBDr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-welcome-screen .corner1-iIM1cK {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x00-welcome-screen .corner2-iIM1cK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+.x00-welcome-screen .corner3-iIM1cK {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 3px;
+}
+.x00-welcome-screen .corner4-iIM1cK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 3px;
+}
+.x00-welcome-screen .display-shape-GUNvJx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+.x00-welcome-screen .gradient-bot-FnGo4v {
+  background-color: transparent;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x00-welcome-screen .gradient-mid-FnGo4v {
+  background-color: transparent;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x00-welcome-screen .gradient-top-FnGo4v {
+  background-color: transparent;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x00-welcome-screen .group-4-FnGo4v {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  position: absolute;
+  width: 375px;
+}
+.x00-welcome-screen .hivo-buttons-pr-mary-background-nVzCyU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-welcome-screen .i-os-ui-elements-C61RwL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x00-welcome-screen .mask-group-10-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-welcome-screen .name-39IBDr {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 3.00px;
+  line-height: 28px;
+  position: absolute;
+  right: calc(49.29% - 56px);
+  text-align: center;
+  top: calc(16.13% - 3px);
+  white-space: nowrap;
+  width: 114px;
+}
+.x00-welcome-screen .picture16-C61RwL {
+  background-color: transparent;
+  height: 102px;
+  left: -50px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(33.66% - 34px);
+  width: 298px;
+}
+.x00-welcome-screen .probably-the-biggest-C61RwL {
+  background-color: transparent;
+  bottom: calc(33.52% - 8px);
+  color: var(--blue-bell);
+  font-family: var(--font-family-sfuitext-light);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+  height: 23px;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 42px);
+}
+.x00-welcome-screen .rectangle-q4vsoZ {
+  background-color: transparent;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x00-welcome-screen .spacing-left-nVzCyU {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x00-welcome-screen .spacing-right-nVzCyU {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x00-welcome-screen .ui-bars-home-in-dark-background-q4vsoZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-welcome-screen .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.x00-welcome-screen .ui-bg-dark-C61RwL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-welcome-screen .ui-dark-buttons-base-dark-C61RwL {
+  background-color: transparent;
+  bottom: calc(16.05% - 8px);
+  cursor: pointer;
+  height: 52px;
+  left: 22px;
+  position: absolute;
+  width: calc(100.00% - 44px);
+}
+.x00-welcome-screen .welcome-to-hivo-smar-C61RwL {
+  background-color: transparent;
+  bottom: 310px;
+  height: 144px;
+  left: 21px;
+  letter-spacing: 1.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: left;
+  width: 83.47%;
+}

@@ -1,0 +1,15 @@
+<html>
+   <body>
+        <div>
+            {% for monitor in monitors %}
+            {% set src = '{}{}'.format(host, monitor["snapshot"]) %}
+            {% set link = '/camera/{}'.format(monitor["mid"]) %}
+            <a href="{{link}}">
+                <img src={{src}} alt="" style="display: block;" width="300" height="300">
+            </a>
+            {% endfor %}
+        </div>
+   </body>
+   <script>
+   </script>
+</html>

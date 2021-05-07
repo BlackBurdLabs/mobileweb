@@ -1,0 +1,3141 @@
+/* screen - 03-security-cameras-1 */
+
+.x03-security-cameras-1 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x03-security-cameras-1 .arm-status-1oi1fj {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arm-status-3@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .arm-status-IkqsRo {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .arm-status-LXibLC {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arm-status-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .arm-status-QEe0CA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arm-status-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .arm-status-bhPqjI {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .arm-status-eiGxNA {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(16.67% - 1px);
+  height: 6px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  width: 6px;
+}
+.x03-security-cameras-1 .arm-status-evRh4E {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(16.67% - 1px);
+  height: 6px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  width: 6px;
+}
+.x03-security-cameras-1 .arm-status-jdiFiN {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .arm-status-xqn1Wy {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(16.67% - 1px);
+  height: 6px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  width: 6px;
+}
+.x03-security-cameras-1 .automation-GwX8Lo {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/automation@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-cameras-1 .base-Zho80r {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .battery-pdgCJr {
+  --z-index: 1;
+  background-color: transparent;
+  height: 11px;
+  opacity: 1;
+  position: absolute;
+  right: 15px;
+  top: 17px;
+  width: 24px;
+}
+.x03-security-cameras-1 .blur-2voLeP {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/blur-14@1x.png);
+  background-size: 100% 100%;
+  height: 89.26%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 100%;
+}
+.x03-security-cameras-1 .blur-FnGo4v {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blur-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x03-security-cameras-1 .bottom-bar-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  bottom: -26px;
+  height: 121px;
+  left: -26px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 52px);
+}
+.x03-security-cameras-1 .combined-shape-2voLeP {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-26@1x.png);
+  background-size: 100% 100%;
+  height: 78.51%;
+  left: 6.09%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 87.82%;
+}
+.x03-security-cameras-1 .combined-shape-31ZkUb {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/cap-path-10@1x.png);
+  background-size: 100% 100%;
+  height: 35.29%;
+  left: 94.54%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 32.35%;
+  width: 5.46%;
+}
+.x03-security-cameras-1 .combined-shape-MaSX1Z {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-28@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .combined-shape-Sx3OiW {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-27@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-cameras-1 .combined-shape-WksxNi {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-29@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-cameras-1 .display-shape-GUNvJx {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/display-shape-10@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x03-security-cameras-1 .glow-2voLeP {
+  --z-index: 10;
+  background-color: transparent;
+  height: 83px;
+  left: calc(50.00% - 64px);
+  opacity: 1;
+  position: absolute;
+  top: calc(7.89% - 7px);
+  width: 127px;
+}
+.x03-security-cameras-1 .glow-8XxhCC {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glow-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .glow-IMOxcd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/glow-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .glow-MaSX1Z {
+  --z-index: 0;
+  background-color: transparent;
+  height: 49.32%;
+  left: 36.22%;
+  opacity: 0.6;
+  position: absolute;
+  top: 9.59%;
+  width: 28.35%;
+}
+.x03-security-cameras-1 .glow-szl37J {
+  --z-index: 0;
+  background-color: transparent;
+  height: 87.95%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 12.05%;
+  width: 100%;
+}
+.x03-security-cameras-1 .gradient-OKzy1p {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/gradient-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .gradient-R4pIjL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/gradient-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .gradient-VF3JYE {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/gradient-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .gradient-bot-FnGo4v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/gradient-bot-10@1x.png);
+  background-size: 100% 100%;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x03-security-cameras-1 .gradient-mid-FnGo4v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/gradient-mid-10@1x.png);
+  background-size: 100% 100%;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x03-security-cameras-1 .gradient-top-FnGo4v {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/gradient-top-10@1x.png);
+  background-size: 100% 100%;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x03-security-cameras-1 .group-116-hu47JY {
+  --z-index: 0;
+  background-color: transparent;
+  height: 18px;
+  left: calc(50.00% - 9px);
+  opacity: 1;
+  position: relative;
+  top: calc(50.00% - 9px);
+  width: 18px;
+}
+.x03-security-cameras-1 .group-124-iqpzH9 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 18px;
+  opacity: 1;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  top: calc(50.00% - 9px);
+  width: 14px;
+}
+.x03-security-cameras-1 .group-14-eiGxNA {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-14-evRh4E {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-14-xqn1Wy {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-15-eiGxNA {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 70px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-15-evRh4E {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 70px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-15-xqn1Wy {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 70px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-18-jgLd7b {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-23-TxaSBG {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(48.15% - 10px);
+  height: 21px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.15% - 10px);
+  width: 21px;
+}
+.x03-security-cameras-1 .group-28-328QF7 {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(48.39% - 8px);
+  height: 17px;
+  opacity: 1;
+  position: absolute;
+  right: calc(50.00% - 7px);
+  width: 14px;
+}
+.x03-security-cameras-1 .group-31-xhxa6O {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 19px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-cameras-1 .group-32-xQwxSQ {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: calc(49.60% - 9px);
+  height: 18px;
+  opacity: 1;
+  position: absolute;
+  right: calc(48.48% - 7px);
+  width: 15px;
+}
+.x03-security-cameras-1 .group-4-FnGo4v {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x03-security-cameras-1 .group-5-2Asa7y {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-6-szl37J {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.37% - 24px);
+  top: 0px;
+  width: 48px;
+}
+.x03-security-cameras-1 .group-7-BaPojK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-7-L6MVYx {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .group-7-eD2BNk {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .hamburger-5rE92Z {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/hamburger-1@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-cameras-1 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 74px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 16px;
+  width: 100%;
+}
+.x03-security-cameras-1 .header-light-N3cxxS {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .header-padding-2pFrgc {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/header-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .hivo-cameras-active-background-eiGxNA {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .hivo-cameras-active-background-evRh4E {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .hivo-cameras-active-background-xqn1Wy {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .hivo-elements-h-ader-background-N3cxxS {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .hivo-elements-t-tive-background-SogfFT {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .hivo-elements-t-tive-background-y5ZsdK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .home-hV4JHs {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/home@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-cameras-1 .i-os-ui-elements-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x03-security-cameras-1 .icon-1-2voLeP {
+  --z-index: 6;
+  background-color: transparent;
+  height: 48px;
+  left: calc(11.08% - 5px);
+  opacity: 1;
+  position: absolute;
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-cameras-1 .icon-2-2voLeP {
+  --z-index: 7;
+  background-color: transparent;
+  height: 48px;
+  left: calc(30.08% - 14px);
+  opacity: 1;
+  position: absolute;
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-cameras-1 .icon-3-2voLeP {
+  --z-index: 11;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.87% - 24px);
+  top: calc(4.11% - 2px);
+  width: 48px;
+}
+.x03-security-cameras-1 .icon-4-2voLeP {
+  --z-index: 8;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(30.08% - 14px);
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-cameras-1 .icon-5-2voLeP {
+  --z-index: 9;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(10.82% - 5px);
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-cameras-1 .mask-1tVwGc {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-1@1x.png);
+  background-size: 100% 100%;
+  height: 160.00%;
+  left: -10.88%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -23.33%;
+  width: 121.75%;
+}
+.x03-security-cameras-1 .mask-WzMUBW {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-1@1x.png);
+  background-size: 100% 100%;
+  height: 160.00%;
+  left: -10.88%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -23.33%;
+  width: 121.75%;
+}
+.x03-security-cameras-1 .mask-group-10-Zho80r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-10-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-11-pZ0KaM {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-11-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-12-0RqOSf {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-12-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-122-iWyRu5 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-122@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-13-WxzwQz {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-13-ggfW2F {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-13-taxJRN {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-130-Sx3OiW {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-130@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-20-1tVwGc {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-20@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-20-WzMUBW {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-20-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-20-kpWfiZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-20-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-21-OKzy1p {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-21-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-21-R4pIjL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-21-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-21-VF3JYE {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-21@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-24-AjglnQ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-24-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-29-WksxNi {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-29@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-34-GwX8Lo {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-34@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-37-5rE92Z {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-37-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-group-38-hV4JHs {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-38@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .mask-kpWfiZ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-1@1x.png);
+  background-size: 100% 100%;
+  height: 160.00%;
+  left: -10.88%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -23.33%;
+  width: 121.75%;
+}
+.x03-security-cameras-1 .mobile-signal-pdgCJr {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/mobile-signal-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 64px;
+  top: 18px;
+  width: 17px;
+}
+.x03-security-cameras-1 .name-SogfFT {
+  --z-index: 1;
+  background-color: transparent;
+  color: #a1a3cf;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 40px;
+  letter-spacing: 0.40px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  right: calc(37.50% - 36px);
+  text-align: center;
+  top: 17.86%;
+  white-space: nowrap;
+  width: 96px;
+}
+.x03-security-cameras-1 .name-y5ZsdK {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  letter-spacing: 0.40px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 58px;
+}
+.x03-security-cameras-1 .number-jgLd7b {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Bold', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  height: 24px;
+  letter-spacing: 0.88px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  right: -2px;
+  text-align: center;
+  top: calc(200.00% - 48px);
+  width: 109.09%;
+}
+.x03-security-cameras-1 .rectangle-2-0RqOSf {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-2-13@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-2-WxzwQz {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-2-ggfW2F {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-2-pZ0KaM {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-2-taxJRN {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-3-1oi1fj {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-3-AjglnQ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-3-LXibLC {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-3-QEe0CA {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .rectangle-31ZkUb {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-11@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 90.43%;
+}
+.x03-security-cameras-1 .rectangle-4-y5ZsdK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-4-5@1x.png);
+  background-size: 100% 100%;
+  height: 7.14%;
+  left: 29.63%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 92.86%;
+  width: 39.81%;
+}
+.x03-security-cameras-1 .rectangle-PHscYF {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/rectangle-12@1x.png);
+  background-size: 100% 100%;
+  height: 64.71%;
+  left: 8.22%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 17.65%;
+  width: 73.99%;
+}
+.x03-security-cameras-1 .rectangle-q4vsoZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-13@1x.png);
+  background-size: 100% 100%;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x03-security-cameras-1 .rooms-iWyRu5 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-122@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .tab-1-2voLeP {
+  --z-index: 2;
+  background-color: transparent;
+  height: 39.67%;
+  left: 9.84%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-cameras-1 .tab-2-2voLeP {
+  --z-index: 3;
+  background-color: transparent;
+  height: 39.67%;
+  left: 26.70%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-cameras-1 .tab-4-2voLeP {
+  --z-index: 4;
+  background-color: transparent;
+  height: 39.67%;
+  left: 62.06%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-cameras-1 .tab-5-2voLeP {
+  --z-index: 5;
+  background-color: transparent;
+  height: 39.67%;
+  left: 79.16%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-cameras-1 .tabs-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 28px;
+  left: 21px;
+  opacity: 1;
+  position: absolute;
+  top: calc(29.85% - 8px);
+  width: 192px;
+}
+.x03-security-cameras-1 .time-style-pdgCJr {
+  --z-index: 4;
+  background-color: transparent;
+  height: 47.73%;
+  left: 5.60%;
+  opacity: 1;
+  position: absolute;
+  top: 27.27%;
+  width: 14.40%;
+}
+.x03-security-cameras-1 .ui-bars-home-in-dark-background-q4vsoZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x03-security-cameras-1 .ui-bars-status-bars-white-base-GUNvJx {
+  --z-index: 1;
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  opacity: 0;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .ui-bars-status-base-background-pdgCJr {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .ui-bars-status-time-background-xrX4P7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .ui-bg-dark-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .ui-dark-blocks-active-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 120px;
+  left: 22px;
+  opacity: 1;
+  position: absolute;
+  top: calc(41.62% - 50px);
+  width: calc(100.00% - 44px);
+}
+.x03-security-cameras-1 .ui-dark-blocks-inactive-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  bottom: calc(19.65% - 24px);
+  height: 120px;
+  left: 22px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% - 44px);
+}
+.x03-security-cameras-1 .ui-dark-blocks-inactive-VMr6Om {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: calc(39.02% - 47px);
+  height: 120px;
+  left: 22px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% - 44px);
+}
+.x03-security-cameras-1 .ui-dark-elements-tabs-active-C2iodK {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 60px;
+}
+.x03-security-cameras-1 .ui-dark-elements-tabs-active-c0Ytex {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 104px;
+}
+.x03-security-cameras-1 .ui-dark-header-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-cameras-1 .ui-dark-header-fication-status-IcPKRJ {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(31.25% - 8px);
+  height: 26px;
+  opacity: 1;
+  position: absolute;
+  right: 22px;
+  width: 22px;
+}
+.x03-security-cameras-1 .wifi-pdgCJr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/wifi-10@1x.png);
+  background-size: 100% 100%;
+  height: 11px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: 44px;
+  top: 17px;
+  width: 15px;
+}
+.x03-security-cameras-1 .x00-title-2pFrgc {
+  --z-index: 1;
+  background-color: transparent;
+  bottom: calc(35.85% - 8px);
+  color: #ffffff;
+  font-family: 'SFUIText-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 16.80%;
+  letter-spacing: 3.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 67.20%;
+}
+.x03-security-cameras-1 .x01-l-eft-2pFrgc {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(30.77% - 15px);
+  height: 48px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  width: 48px;
+}
+.x03-security-cameras-1 .x941-xrX4P7 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFProText-Semibold', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 0px;
+  letter-spacing: -0.30px;
+  line-height: 15px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 9.52%;
+  width: calc(100.00% + 2px);
+}
+.x03-security-cameras-1 .your-home-is-now-uns-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 594px;
+  color: #ffffff;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 97px;
+  left: 21px;
+  letter-spacing: 1.00px;
+  line-height: 47px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  width: 88.80%;
+}
+/* screen - 03-security-camera-more-1 */
+
+.x03-security-camera-more-1 {
+  background-color: #ffffff;
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x03-security-camera-more-1 .arm-status-E1KIed {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/arm-status-3@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .arm-status-P8Rjxo {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .base-Zho80r {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/base-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .blur-2voLeP {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/blur-14@1x.png);
+  background-size: 100% 100%;
+  height: 89.26%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 100%;
+}
+.x03-security-camera-more-1 .blur-FnGo4v {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/blur-15@1x.png);
+  background-size: 100% 100%;
+  height: 69.15%;
+  left: 29.47%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 23.87%;
+  width: 39.69%;
+}
+.x03-security-camera-more-1 .bottom-bar-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  bottom: -26px;
+  height: 121px;
+  left: -26px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% + 52px);
+}
+.x03-security-camera-more-1 .calibration-VUt3WA {
+  --z-index: 1;
+  background-color: transparent;
+  color: #b1bcfd;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: calc(104.35% - 17px);
+  white-space: nowrap;
+  width: 104.00%;
+}
+.x03-security-camera-more-1 .combined-shape-2voLeP {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-26@1x.png);
+  background-size: 100% 100%;
+  height: 78.51%;
+  left: 6.09%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 87.82%;
+}
+.x03-security-camera-more-1 .combined-shape-CEaqug {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-31@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-FM1VTZ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-37@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .combined-shape-JD34SQ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-44@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-MaSX1Z {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-28@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .combined-shape-Txrn2t {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-43@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-aq1RDq {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-35@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-dVh4Dn {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-45@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-hqVbD7 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-40@1x.png);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 6px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 12px);
+}
+.x03-security-camera-more-1 .combined-shape-n9ZLdP {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-34@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-q6OIqt {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-33@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-rBoIRn {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-42@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-uPxNEt {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-41@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .combined-shape-xmh3Lt {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/combined-shape-39@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .dormancy-LLNgdf {
+  --z-index: 1;
+  background-color: transparent;
+  color: #b1bcfd;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: calc(104.35% - 17px);
+  white-space: nowrap;
+  width: 104.17%;
+}
+.x03-security-camera-more-1 .features-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  bottom: 112px;
+  height: 142px;
+  left: 28px;
+  opacity: 1;
+  position: absolute;
+  width: calc(100.00% - 53px);
+}
+.x03-security-camera-more-1 .fill-1-MZo7m7 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/fill-1-16@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .glow-2voLeP {
+  --z-index: 10;
+  background-color: transparent;
+  height: 83px;
+  left: calc(50.00% - 64px);
+  opacity: 1;
+  position: absolute;
+  top: calc(7.89% - 7px);
+  width: 127px;
+}
+.x03-security-camera-more-1 .glow-8XxhCC {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glow-2@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .glow-IMOxcd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/glow-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .glow-MaSX1Z {
+  --z-index: 0;
+  background-color: transparent;
+  height: 49.32%;
+  left: 36.22%;
+  opacity: 0.6;
+  position: absolute;
+  top: 9.59%;
+  width: 28.35%;
+}
+.x03-security-camera-more-1 .glow-szl37J {
+  --z-index: 0;
+  background-color: transparent;
+  height: 87.95%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 12.05%;
+  width: 100%;
+}
+.x03-security-camera-more-1 .gradient-GQwKa4 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/gradient-3@1x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .gradient-bot-FnGo4v {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/gradient-bot-10@1x.png);
+  background-size: 100% 100%;
+  height: 78.91%;
+  left: -4.01%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 32.99%;
+  width: 90.78%;
+}
+.x03-security-camera-more-1 .gradient-mid-FnGo4v {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/gradient-mid-10@1x.png);
+  background-size: 100% 100%;
+  height: 65.34%;
+  left: 38.50%;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 16.26%;
+  width: 75.18%;
+}
+.x03-security-camera-more-1 .gradient-top-7TgB2X {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/gradient-top-14@1x.png);
+  background-size: 100% 100%;
+  height: 873px;
+  left: -150px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: -150px;
+  width: 873px;
+}
+.x03-security-camera-more-1 .group-102-eXsBxH {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-109-hu47JY {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 33px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-24-xhxa6O {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-4-FnGo4v {
+  --z-index: 0;
+  background-color: transparent;
+  bottom: 118px;
+  height: 812px;
+  left: calc(48.96% - 184px);
+  opacity: 1;
+  position: absolute;
+  width: 375px;
+}
+.x03-security-camera-more-1 .group-47-ScctBc {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-4hTLJh {
+  --z-index: 1;
+  background-color: transparent;
+  height: 62px;
+  left: calc(33.21% - 16px);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 48px;
+}
+.x03-security-camera-more-1 .group-5-eD2BNk {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .group-6-szl37J {
+  --z-index: 1;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.37% - 24px);
+  top: 0px;
+  width: 48px;
+}
+.x03-security-camera-more-1 .group-7-2Asa7y {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .group-7-BaPojK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .group-7-L6MVYx {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .group-76-xQwxSQ {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 17px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 33px);
+}
+.x03-security-camera-more-1 .group-80-328QF7 {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 19px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-82-Xd8dLB {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-83-rHk4Nv {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-84-TxaSBG {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 34px);
+  left: 15px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 30px);
+}
+.x03-security-camera-more-1 .group-86-pyFMVq {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 17px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 33px);
+}
+.x03-security-camera-more-1 .group-90-1px5sN {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-91-ykoT2Q {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 36px);
+  left: 16px;
+  opacity: 1;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x03-security-camera-more-1 .group-92-iqpzH9 {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 17px;
+  opacity: 1;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 33px);
+}
+.x03-security-camera-more-1 .group-eNJY5z {
+  --z-index: 5;
+  background-color: transparent;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 56px;
+}
+.x03-security-camera-more-1 .group-hqVbD7 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group@1x.png);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 6px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 12px);
+}
+.x03-security-camera-more-1 .group-phRJv9 {
+  --z-index: 4;
+  background-color: transparent;
+  height: 62px;
+  opacity: 1;
+  position: absolute;
+  right: calc(33.20% - 22px);
+  top: 0px;
+  width: 66px;
+}
+.x03-security-camera-more-1 .group-qmOpaq {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: 0px;
+  height: 62px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 50px;
+}
+.x03-security-camera-more-1 .group-tbSLx5 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 62px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+.x03-security-camera-more-1 .group-xKsQoj {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: 0px;
+  height: 62px;
+  left: calc(33.21% - 16px);
+  opacity: 1;
+  position: absolute;
+  width: 48px;
+}
+.x03-security-camera-more-1 .hamburger-o0npuQ {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/hamburger-2@1x.png);
+  background-size: 100% 100%;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x03-security-camera-more-1 .header-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 74px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .header-light-N3cxxS {
+  --z-index: 1;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .header-padding-2pFrgc {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/header-padding-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .hivo-elements-h-ttle-background-N3cxxS {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .i-os-ui-elements-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  bottom: 0px;
+  height: 34px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x03-security-camera-more-1 .icon-1-2voLeP {
+  --z-index: 6;
+  background-color: transparent;
+  height: 48px;
+  left: calc(11.08% - 5px);
+  opacity: 1;
+  position: absolute;
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-camera-more-1 .icon-2-2voLeP {
+  --z-index: 7;
+  background-color: transparent;
+  height: 48px;
+  left: calc(30.08% - 14px);
+  opacity: 1;
+  position: absolute;
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-camera-more-1 .icon-3-2voLeP {
+  --z-index: 11;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.87% - 24px);
+  top: calc(4.11% - 2px);
+  width: 48px;
+}
+.x03-security-camera-more-1 .icon-4-2voLeP {
+  --z-index: 8;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(30.08% - 14px);
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-camera-more-1 .icon-5-2voLeP {
+  --z-index: 9;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: calc(10.82% - 5px);
+  top: calc(17.81% - 9px);
+  width: 48px;
+}
+.x03-security-camera-more-1 .mask-group-10-Zho80r {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-10-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-108-uPxNEt {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-108@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-11-2aRWUG {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-11-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-115-n9ZLdP {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-115@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-12-0RqOSf {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-12-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-13-WxzwQz {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-13-ggfW2F {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-13-xNcykx {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-30-MZo7m7 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-30-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-53-rBoIRn {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-53@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-82-q6OIqt {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-82@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-86-o0npuQ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-86@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-88-dVh4Dn {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-88@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-89-JD34SQ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-89@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-90-FM1VTZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-90@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-92-Txrn2t {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-92@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-96-CEaqug {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-96@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-97-xmh3Lt {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-97@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .mask-group-98-aq1RDq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-98@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .more-features-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  bottom: calc(33.25% - 7px);
+  color: #ffffff;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 37.73%;
+  letter-spacing: 0.40px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: 25.07%;
+}
+.x03-security-camera-more-1 .motion-dete-0pN3KU {
+  --z-index: 1;
+  background-color: transparent;
+  color: #b1bcfd;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: calc(104.35% - 17px);
+  white-space: nowrap;
+  width: 103.03%;
+}
+.x03-security-camera-more-1 .night-mode-fDIhzY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #b1bcfd;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: calc(104.35% - 17px);
+  white-space: nowrap;
+  width: 103.57%;
+}
+.x03-security-camera-more-1 .photo-9IK2lC {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/photo-1@1x.png);
+  background-size: 100% 100%;
+  height: 70px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .photo-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 420px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .photo-GQwKa4 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/photo@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-2-0RqOSf {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-2-13@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-2-2aRWUG {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-2-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-2-7@1x.png);
+  background-size: 100% 100%;
+  bottom: 82px;
+  height: 220px;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-2-WxzwQz {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-2-ggfW2F {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-2-hqVbD7 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-2-14@1x.png);
+  background-size: 100% 100%;
+  height: 44px;
+  left: 2px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: calc(100.00% - 4px);
+}
+.x03-security-camera-more-1 .rectangle-2-xNcykx {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/mask-group-13-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-3-E1KIed {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-3-10@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-GQwKa4 {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-51@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .rectangle-q4vsoZ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/rectangle-13@1x.png);
+  background-size: 100% 100%;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x03-security-camera-more-1 .repeat-grid-1-FnGo4v {
+  --z-index: 2;
+  background-color: transparent;
+  height: 873px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 873px;
+}
+.x03-security-camera-more-1 .secured-GQwKa4 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: 21px;
+  left: 8.80%;
+  letter-spacing: 0.40px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: calc(4.01% - 1px);
+  white-space: nowrap;
+  width: 14.40%;
+}
+.x03-security-camera-more-1 .tab-1-2voLeP {
+  --z-index: 2;
+  background-color: transparent;
+  height: 39.67%;
+  left: 9.84%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-camera-more-1 .tab-2-2voLeP {
+  --z-index: 3;
+  background-color: transparent;
+  height: 39.67%;
+  left: 26.70%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-camera-more-1 .tab-4-2voLeP {
+  --z-index: 4;
+  background-color: transparent;
+  height: 39.67%;
+  left: 62.06%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-camera-more-1 .tab-5-2voLeP {
+  --z-index: 5;
+  background-color: transparent;
+  height: 39.67%;
+  left: 79.16%;
+  opacity: 1;
+  position: absolute;
+  top: 10.74%;
+  width: 11.24%;
+}
+.x03-security-camera-more-1 .time-lapse-SqsA51 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #b1bcfd;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: calc(104.35% - 17px);
+  white-space: nowrap;
+  width: 104.00%;
+}
+.x03-security-camera-more-1 .track-hqVbD7 {
+  --z-index: 4;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 25.00%;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: calc(104.35% - 17px);
+  white-space: nowrap;
+  width: 54.17%;
+}
+.x03-security-camera-more-1 .ui-bars-home-in-dark-background-q4vsoZ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .ui-bg-dark-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% + 449px);
+  left: -353px;
+  opacity: 1;
+  position: absolute;
+  top: -335px;
+  width: calc(100.00% + 721px);
+}
+.x03-security-camera-more-1 .ui-dark-blocks-arm-status-GQwKa4 {
+  --z-index: 5;
+  background-color: transparent;
+  height: 6px;
+  left: 21px;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  width: 6px;
+}
+.x03-security-camera-more-1 .ui-dark-header-IcPKRJ {
+  --z-index: 0;
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .ui-dark-icons-o-line-ratio-zoom-GQwKa4 {
+  --z-index: 4;
+  background-color: transparent;
+  height: 48px;
+  opacity: 1;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  width: 48px;
+}
+.x03-security-camera-more-1 .ui-dark-icons-outline-record-0pN3KU {
+  --z-index: 0;
+  background-color: transparent;
+  height: 48px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 18px);
+}
+.x03-security-camera-more-1 .ui-dark-icons-outline-record-LLNgdf {
+  --z-index: 0;
+  background-color: transparent;
+  height: calc(100.00% - 14px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .ui-dark-icons-outline-record-SqsA51 {
+  --z-index: 0;
+  background-color: transparent;
+  height: 48px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.x03-security-camera-more-1 .ui-dark-icons-outline-record-VUt3WA {
+  --z-index: 0;
+  background-color: transparent;
+  height: 48px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 2px);
+}
+.x03-security-camera-more-1 .ui-dark-icons-outline-record-fDIhzY {
+  --z-index: 0;
+  background-color: transparent;
+  height: 48px;
+  left: 4px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 8px);
+}
+.x03-security-camera-more-1 .ui-dark-icons-outline-record-hqVbD7 {
+  --z-index: 3;
+  background-color: transparent;
+  height: calc(100.00% - 14px);
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x03-security-camera-more-1 .x0-PuMH3d {
+  --z-index: 0;
+  background-color: transparent;
+  height: 573px;
+  left: 150px;
+  opacity: 1;
+  position: relative;
+  top: 150px;
+  width: 573px;
+}
+.x03-security-camera-more-1 .x00-subtittle-2pFrgc {
+  --z-index: 2;
+  background-color: transparent;
+  bottom: calc(20.69% - 3px);
+  color: #b1bcfd;
+  font-family: 'SFUIText-Regular', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 24.80%;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  width: 51.20%;
+}
+.x03-security-camera-more-1 .x00-title-2pFrgc {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'SFUIText-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 21px;
+  left: 17.33%;
+  letter-spacing: 3.00px;
+  line-height: 14px;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: calc(49.06% - 10px);
+  width: 66.13%;
+}
+.x03-security-camera-more-1 .x01-l-eft-2pFrgc {
+  --z-index: 3;
+  background-color: transparent;
+  bottom: calc(30.77% - 15px);
+  height: 48px;
+  left: 6px;
+  opacity: 1;
+  position: absolute;
+  width: 48px;
+}

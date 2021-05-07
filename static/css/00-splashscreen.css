@@ -1,0 +1,136 @@
+/* screen - 00-splashscreen */
+
+.x00-splashscreen {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x00-splashscreen .base-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-splashscreen .blur-FnGo4v {
+  background-color: transparent;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x00-splashscreen .display-shape-GUNvJx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+.x00-splashscreen .gradient-bot-FnGo4v {
+  background-color: transparent;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x00-splashscreen .gradient-mid-FnGo4v {
+  background-color: transparent;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x00-splashscreen .gradient-top-FnGo4v {
+  background-color: transparent;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x00-splashscreen .group-4-FnGo4v {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  position: absolute;
+  width: 375px;
+}
+.x00-splashscreen .i-os-ui-elements-C61RwL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x00-splashscreen .mask-group-10-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-splashscreen .picture16-C61RwL {
+  background-color: transparent;
+  bottom: calc(49.92% - 80px);
+  cursor: pointer;
+  height: 161px;
+  left: -48px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% + 98px);
+}
+.x00-splashscreen .rectangle-q4vsoZ {
+  background-color: transparent;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x00-splashscreen .ui-bars-home-in-dark-background-q4vsoZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x00-splashscreen .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.x00-splashscreen .ui-bg-dark-C61RwL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}

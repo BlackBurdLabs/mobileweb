@@ -1,0 +1,56 @@
+:root {
+  --blue-bell: #a1a3cf;
+  --perano: #b1bcfd;
+  --white: #ffffff;
+
+  --font-size-l: 14px;
+  --font-size-m: 10px;
+  --font-size-xl: 16px;
+  --font-size-xxl: 36px;
+
+  --font-family-sfuitext-light: "SFUIText-Light", Helvetica;
+  --font-family-sfuitext-medium: "SFUIText-Medium", Helvetica;
+  --font-family-sfuitext-regular: "SFUIText-Regular", Helvetica;
+}
+.sfuitext-regular-normal-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-sfuitext-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.sfuitext-regular-normal-perano-10px {
+  color: var(--perano);
+  font-family: var(--font-family-sfuitext-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.sfuitext-regular-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-sfuitext-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.sfuitext-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-sfuitext-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+.sfuitext-medium-blue-bell-14px {
+  color: var(--blue-bell);
+  font-family: var(--font-family-sfuitext-medium);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+.sfuitext-regular-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-sfuitext-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}

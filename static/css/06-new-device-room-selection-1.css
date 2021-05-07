@@ -1,0 +1,930 @@
+/* screen - 06-new-device-room-selection-1 */
+
+.x06-new-device-room-selection-1 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 100vh;
+  margin: 0px;
+  min-height: 812px;
+  min-width: 375px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .base-PMREQU {
+  background-color: transparent;
+  height: 96.15%;
+  left: 0.32%;
+  object-fit: cover;
+  position: absolute;
+  top: 1.92%;
+  width: 99.36%;
+}
+.x06-new-device-room-selection-1 .base-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .blur-FnGo4v {
+  background-color: transparent;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x06-new-device-room-selection-1 .button-base-PMREQU {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.x06-new-device-room-selection-1 .button-base-XDM1xz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .combined-shape-1W74pg {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x06-new-device-room-selection-1 .connected-successful-C61RwL {
+  background-color: transparent;
+  bottom: 450px;
+  height: 97px;
+  left: 32px;
+  letter-spacing: 1.00px;
+  line-height: 47px;
+  position: absolute;
+  text-align: center;
+  width: 83.47%;
+}
+.x06-new-device-room-selection-1 .corner-PMREQU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .corner1-rnezNx {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x06-new-device-room-selection-1 .corner2-rnezNx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+.x06-new-device-room-selection-1 .corner3-rnezNx {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 3px;
+}
+.x06-new-device-room-selection-1 .corner4-rnezNx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 3px;
+}
+.x06-new-device-room-selection-1 .display-shape-GUNvJx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+.x06-new-device-room-selection-1 .fill-1-MZo7m7 {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x06-new-device-room-selection-1 .gradient-bot-FnGo4v {
+  background-color: transparent;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x06-new-device-room-selection-1 .gradient-mid-FnGo4v {
+  background-color: transparent;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x06-new-device-room-selection-1 .gradient-top-FnGo4v {
+  background-color: transparent;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x06-new-device-room-selection-1 .group-24-xhxa6O {
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x06-new-device-room-selection-1 .group-3D54x0 {
+  background-color: transparent;
+  height: 100%;
+  left: 71.95%;
+  position: absolute;
+  top: 0px;
+  width: 28.05%;
+}
+.x06-new-device-room-selection-1 .group-4-FnGo4v {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  position: absolute;
+  width: 375px;
+}
+.x06-new-device-room-selection-1 .group-97-MnLzxP {
+  background-color: transparent;
+  height: calc(100.00% - 112px);
+  left: 56px;
+  position: relative;
+  top: 56px;
+  width: calc(100.00% - 112px);
+}
+.x06-new-device-room-selection-1 .group-AxizMn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26.83%;
+}
+.x06-new-device-room-selection-1 .group-C61RwL {
+  background-color: transparent;
+  height: 3.94%;
+  left: 76.00%;
+  position: absolute;
+  top: 66.01%;
+  width: 18.40%;
+}
+.x06-new-device-room-selection-1 .group-FJanAF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 26.83%;
+}
+.x06-new-device-room-selection-1 .group-GZSu9p {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 27.97%;
+}
+.x06-new-device-room-selection-1 .group-QhHfaq {
+  background-color: transparent;
+  height: 100%;
+  left: 70.76%;
+  position: absolute;
+  top: 0px;
+  width: 29.24%;
+}
+.x06-new-device-room-selection-1 .group-RjjlO2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 27.97%;
+}
+.x06-new-device-room-selection-1 .group-WHpG8I {
+  background-color: transparent;
+  height: 100%;
+  left: 33.33%;
+  position: absolute;
+  top: 0px;
+  width: 32.11%;
+}
+.x06-new-device-room-selection-1 .group-dRR41X {
+  background-color: transparent;
+  height: 100%;
+  left: 34.75%;
+  position: absolute;
+  top: 0px;
+  width: 29.24%;
+}
+.x06-new-device-room-selection-1 .group-e1G58q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 66.90%;
+}
+.x06-new-device-room-selection-1 .group-gANDbN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .group-j6jpWo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .group-k4bMoq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .group-mxeOeR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 27.97%;
+}
+.x06-new-device-room-selection-1 .group-xaxubL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .header-C61RwL {
+  background-color: transparent;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  top: 16px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .header-light-N3cxxS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .header-padding-2pFrgc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .hivo-blocks-roo-cted-background-AxizMn {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 180px);
+}
+.x06-new-device-room-selection-1 .hivo-blocks-roo-cted-background-RjjlO2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 170px);
+}
+.x06-new-device-room-selection-1 .hivo-blocks-roo-cted-background-e1G58q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .hivo-blocks-roo-cted-background-gANDbN {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .hivo-blocks-roo-cted-background-j6jpWo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .hivo-blocks-roo-cted-background-k4bMoq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .hivo-blocks-roo-cted-background-xaxubL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .hivo-buttons-pr-mary-background-XDM1xz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .hivo-elements-h-ttle-background-N3cxxS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .i-os-ui-elements-C61RwL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .mask-group-10-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .mask-group-103-1W74pg {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .mask-group-30-MZo7m7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .name-2zNOct {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 33px;
+}
+.x06-new-device-room-selection-1 .name-590K0q {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 41px;
+}
+.x06-new-device-room-selection-1 .name-CACRDJ {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 26px;
+}
+.x06-new-device-room-selection-1 .name-MFKxxZ {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 53px;
+}
+.x06-new-device-room-selection-1 .name-NOXmfT {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 17px;
+}
+.x06-new-device-room-selection-1 .name-O6nTRO {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 26px;
+}
+.x06-new-device-room-selection-1 .name-PMREQU {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 3.00px;
+  line-height: 28px;
+  position: absolute;
+  right: calc(49.47% - 22px);
+  text-align: center;
+  top: calc(16.13% - 3px);
+  white-space: nowrap;
+  width: 44px;
+}
+.x06-new-device-room-selection-1 .name-RoGRAs {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 41px;
+}
+.x06-new-device-room-selection-1 .name-UHOMjj {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 22px;
+}
+.x06-new-device-room-selection-1 .name-Xz36EX {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 21px;
+}
+.x06-new-device-room-selection-1 .name-ZPrAtl {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 21px;
+}
+.x06-new-device-room-selection-1 .name-cNOeRL {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 26px;
+}
+.x06-new-device-room-selection-1 .name-h8Pijk {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 22px;
+}
+.x06-new-device-room-selection-1 .name-ulCl7W {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 19px;
+}
+.x06-new-device-room-selection-1 .name-w2w0Hx {
+  background-color: transparent;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  white-space: nowrap;
+  width: 21px;
+}
+.x06-new-device-room-selection-1 .rectangle-q4vsoZ {
+  background-color: transparent;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x06-new-device-room-selection-1 .select-the-device-lo-C61RwL {
+  background-color: transparent;
+  bottom: calc(48.17% - 10px);
+  height: 21px;
+  left: 21px;
+  letter-spacing: 0.40px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 62px);
+}
+.x06-new-device-room-selection-1 .spacing-left-XDM1xz {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x06-new-device-room-selection-1 .spacing-right-XDM1xz {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x06-new-device-room-selection-1 .ui-bars-home-in-dark-background-q4vsoZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .ui-bg-dark-C61RwL {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .ui-dark-blocks-room-unselected-2P4qUJ {
+  background-color: transparent;
+  bottom: calc(43.08% - 14px);
+  height: 32px;
+  left: calc(34.33% - 26px);
+  position: absolute;
+  width: 75px;
+}
+.x06-new-device-room-selection-1 .ui-dark-blocks-room-unselected-C61RwL {
+  background-color: transparent;
+  bottom: calc(37.18% - 12px);
+  height: 32px;
+  position: absolute;
+  right: 29px;
+  width: 236px;
+}
+.x06-new-device-room-selection-1 .ui-dark-blocks-room-unselected-J1YQmd {
+  background-color: transparent;
+  bottom: calc(31.28% - 10px);
+  height: 32px;
+  left: 21px;
+  position: absolute;
+  width: 246px;
+}
+.x06-new-device-room-selection-1 .ui-dark-blocks-room-unselected-QxM5SU {
+  background-color: transparent;
+  bottom: calc(43.08% - 14px);
+  height: 32px;
+  position: absolute;
+  right: calc(32.87% - 29px);
+  width: 89px;
+}
+.x06-new-device-room-selection-1 .ui-dark-blocks-room-unselected-VMr6Om {
+  background-color: transparent;
+  bottom: calc(37.18% - 12px);
+  height: 32px;
+  left: 21px;
+  position: absolute;
+  width: 75px;
+}
+.x06-new-device-room-selection-1 .ui-dark-blocks-room-unselected-mzXdH9 {
+  background-color: transparent;
+  bottom: calc(43.08% - 14px);
+  height: 32px;
+  position: absolute;
+  right: 56px;
+  width: 58px;
+}
+.x06-new-device-room-selection-1 .ui-dark-blocks-room-unselected-qr8e7q {
+  background-color: transparent;
+  bottom: calc(43.08% - 14px);
+  height: 32px;
+  left: 21px;
+  position: absolute;
+  width: 68px;
+}
+.x06-new-device-room-selection-1 .ui-dark-buttons-primary-C61RwL {
+  background-color: transparent;
+  bottom: 60px;
+  height: 52px;
+  left: 22px;
+  position: absolute;
+  width: calc(100.00% - 44px);
+}
+.x06-new-device-room-selection-1 .ui-dark-header-IcPKRJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .ui-dark-icons-outline-success-C61RwL {
+  background-color: transparent;
+  height: 168px;
+  left: calc(49.76% - 84px);
+  position: absolute;
+  top: calc(19.25% - 32px);
+  width: 168px;
+}
+.x06-new-device-room-selection-1 .x00-subtittle-2pFrgc {
+  background-color: transparent;
+  bottom: calc(20.69% - 3px);
+  height: 16px;
+  left: 24.80%;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  width: 51.20%;
+}
+.x06-new-device-room-selection-1 .x00-title-2pFrgc {
+  background-color: transparent;
+  height: 21px;
+  left: 17.33%;
+  letter-spacing: 3.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: calc(49.06% - 10px);
+  width: 66.13%;
+}
+.x06-new-device-room-selection-1 .x01-l-eft-2pFrgc {
+  background-color: transparent;
+  bottom: calc(30.77% - 15px);
+  height: 48px;
+  left: 6px;
+  position: absolute;
+  width: 48px;
+}
+.x06-new-device-room-selection-1 .x10-15-2zNOct {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-590K0q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-CACRDJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-Dgnxp8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-MFKxxZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-NOXmfT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-O6nTRO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-RoGRAs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-UHOMjj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-Xz36EX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-ZPrAtl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-cNOeRL {
+  background-color: transparent;
+  height: calc(100.00% + 36px);
+  left: -18px;
+  object-fit: cover;
+  position: absolute;
+  top: -14px;
+  width: calc(100.00% + 36px);
+}
+.x06-new-device-room-selection-1 .x10-15-h8Pijk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-ulCl7W {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-room-selection-1 .x10-15-w2w0Hx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}

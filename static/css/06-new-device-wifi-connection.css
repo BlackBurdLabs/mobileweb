@@ -1,0 +1,632 @@
+/* screen - 06-new-device-wifi-connection */
+
+.x06-new-device-wifi-connection {
+  background-color: var(--white);
+  height: 812px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+.x06-new-device-wifi-connection .base-PMREQU {
+  background-color: transparent;
+  height: 96.15%;
+  left: 0.32%;
+  object-fit: cover;
+  position: absolute;
+  top: 1.92%;
+  width: 99.36%;
+}
+.x06-new-device-wifi-connection .base-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .blur-FnGo4v {
+  background-color: transparent;
+  height: 107.39%;
+  left: -8.00%;
+  object-fit: cover;
+  position: absolute;
+  top: -3.69%;
+  width: 116.00%;
+}
+.x06-new-device-wifi-connection .button-base-PMREQU {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+.x06-new-device-wifi-connection .button-base-XDM1xz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .combined-shape-3rULgT {
+  background-color: transparent;
+  height: 4.61%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 58.46%;
+  width: 40.42%;
+}
+.x06-new-device-wifi-connection .combined-shape-hjsKxK {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x06-new-device-wifi-connection .combined-shape-mpfYuz {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x06-new-device-wifi-connection .corner-PMREQU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .corner1-rnezNx {
+  background-color: transparent;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+.x06-new-device-wifi-connection .corner2-rnezNx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 3px;
+}
+.x06-new-device-wifi-connection .corner3-rnezNx {
+  background-color: transparent;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 3px;
+}
+.x06-new-device-wifi-connection .corner4-rnezNx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 3px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  width: 3px;
+}
+.x06-new-device-wifi-connection .display-shape-GUNvJx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+.x06-new-device-wifi-connection .fill-1-IDxhEF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x06-new-device-wifi-connection .fill-1-MZo7m7 {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x06-new-device-wifi-connection .gradient-bot-FnGo4v {
+  background-color: transparent;
+  height: 122.54%;
+  left: -105.87%;
+  object-fit: cover;
+  position: absolute;
+  top: 10.47%;
+  width: 265.33%;
+}
+.x06-new-device-wifi-connection .gradient-mid-FnGo4v {
+  background-color: transparent;
+  height: 101.48%;
+  left: 18.40%;
+  object-fit: cover;
+  position: absolute;
+  top: -15.52%;
+  width: 219.73%;
+}
+.x06-new-device-wifi-connection .gradient-top-FnGo4v {
+  background-color: transparent;
+  height: 107.51%;
+  left: -94.13%;
+  object-fit: cover;
+  position: absolute;
+  top: -40.76%;
+  width: 232.80%;
+}
+.x06-new-device-wifi-connection .group-112-MnLzxP {
+  background-color: transparent;
+  height: calc(100.00% - 126px);
+  left: 60px;
+  position: relative;
+  top: 63px;
+  width: calc(100.00% - 117px);
+}
+.x06-new-device-wifi-connection .group-134-cGlQfZ {
+  background-color: transparent;
+  height: calc(100.00% - 32px);
+  left: 16px;
+  position: relative;
+  top: 16px;
+  width: calc(100.00% - 32px);
+}
+.x06-new-device-wifi-connection .group-24-xhxa6O {
+  background-color: transparent;
+  height: calc(100.00% - 37px);
+  left: 16px;
+  position: relative;
+  top: 18px;
+  width: calc(100.00% - 32px);
+}
+.x06-new-device-wifi-connection .group-25-BtZQLi {
+  background-color: transparent;
+  height: calc(100.00% - 39px);
+  left: 16px;
+  position: relative;
+  top: 20px;
+  width: calc(100.00% - 32px);
+}
+.x06-new-device-wifi-connection .group-4-FnGo4v {
+  background-color: transparent;
+  bottom: 0px;
+  height: 812px;
+  left: calc(50.00% - 188px);
+  position: absolute;
+  width: 375px;
+}
+.x06-new-device-wifi-connection .group-50-xkCP5t {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 10px;
+  position: relative;
+  top: 11px;
+  width: calc(100.00% - 19px);
+}
+.x06-new-device-wifi-connection .header-C61RwL {
+  background-color: transparent;
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  top: 16px;
+  width: 375px;
+}
+.x06-new-device-wifi-connection .header-light-N3cxxS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .header-padding-2pFrgc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .hivo-buttons-pr-mary-background-XDM1xz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .hivo-elements-h-ttle-background-N3cxxS {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .hivo-elements-i-cess-background-V8DMId {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .hivo-elements-i-word-background-3rULgT {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .i-os-ui-elements-C61RwL {
+  background-color: transparent;
+  height: 812px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.x06-new-device-wifi-connection .mask-group-10-Zho80r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .mask-group-118-mpfYuz {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .mask-group-140-hjsKxK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .mask-group-30-MZo7m7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .mask-group-31-NZOgDK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .mask-group-56-IDxhEF {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .name-PMREQU {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 3.00px;
+  line-height: 28px;
+  position: absolute;
+  right: calc(49.47% - 22px);
+  text-align: center;
+  top: calc(16.13% - 3px);
+  white-space: nowrap;
+  width: 44px;
+}
+.x06-new-device-wifi-connection .rectangle-10-eyb3Ts {
+  background-color: transparent;
+  height: 22px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(42.86% - 9px);
+  width: 22px;
+}
+.x06-new-device-wifi-connection .rectangle-77x5Oi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .rectangle-q4vsoZ {
+  background-color: transparent;
+  bottom: 9px;
+  height: 5px;
+  object-fit: cover;
+  position: absolute;
+  right: calc(49.79% - 67px);
+  width: 134px;
+}
+.x06-new-device-wifi-connection .rectangle-rKnPw3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .remember-password-eyb3Ts {
+  background-color: transparent;
+  bottom: calc(38.46% - 6px);
+  height: 16px;
+  left: 32px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 194.12%;
+}
+.x06-new-device-wifi-connection .shape-NZOgDK {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+.x06-new-device-wifi-connection .spacing-left-XDM1xz {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x06-new-device-wifi-connection .spacing-right-XDM1xz {
+  background-color: transparent;
+  height: calc(100.00% - 2px);
+  left: 268px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 269px);
+}
+.x06-new-device-wifi-connection .ui-bars-home-in-dark-background-q4vsoZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .ui-bars-home-in-dicator-on-dark-GUNvJx {
+  background-color: transparent;
+  bottom: 1px;
+  height: 34px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .ui-bg-dark-C61RwL {
+  background-color: transparent;
+  height: 812px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 375px;
+}
+.x06-new-device-wifi-connection .ui-dark-buttons-primary-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 22px;
+  position: absolute;
+  top: 700px;
+  width: 331px;
+}
+.x06-new-device-wifi-connection .ui-dark-elements-checkbox-C61RwL {
+  background-color: transparent;
+  height: 29px;
+  left: 17px;
+  position: absolute;
+  top: 471px;
+  width: 296px;
+}
+.x06-new-device-wifi-connection .ui-dark-header-IcPKRJ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .ui-dark-icons-o-tline-checkmark-eyb3Ts {
+  background-color: transparent;
+  height: 29px;
+  left: 0px;
+  position: absolute;
+  top: calc(50.00% - 14px);
+  width: 29px;
+}
+.x06-new-device-wifi-connection .ui-dark-icons-outline-success-C61RwL {
+  background-color: transparent;
+  height: 168px;
+  left: 103px;
+  position: absolute;
+  top: 123px;
+  width: 168px;
+}
+.x06-new-device-wifi-connection .ui-dark-icons-solid-checkmark-3rULgT {
+  background-color: transparent;
+  height: 73.85%;
+  left: 85.63%;
+  position: absolute;
+  top: 23.08%;
+  width: 14.37%;
+}
+.x06-new-device-wifi-connection .ui-dark-icons-solid-checkmark-V8DMId {
+  background-color: transparent;
+  height: 73.85%;
+  left: 85.63%;
+  position: absolute;
+  top: 23.08%;
+  width: 14.37%;
+}
+.x06-new-device-wifi-connection .uidarkelementsinput-C61RwL {
+  background-color: transparent;
+  height: 65px;
+  left: 20px;
+  position: absolute;
+  top: 291px;
+  width: 334px;
+}
+.x06-new-device-wifi-connection .uidarkelementsinput-VMr6Om {
+  background-color: transparent;
+  height: 65px;
+  left: 20px;
+  position: absolute;
+  top: 388px;
+  width: 334px;
+}
+.x06-new-device-wifi-connection .underline-3rULgT {
+  background-color: transparent;
+  height: 1.54%;
+  left: 0px;
+  position: absolute;
+  top: 98.46%;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .underline-77x5Oi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .underline-V8DMId {
+  background-color: transparent;
+  height: 1.54%;
+  left: 0px;
+  position: absolute;
+  top: 98.46%;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .underline-rKnPw3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.x06-new-device-wifi-connection .x00-subtittle-2pFrgc {
+  background-color: transparent;
+  bottom: calc(20.69% - 3px);
+  height: 16px;
+  left: 24.80%;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: center;
+  width: 51.20%;
+}
+.x06-new-device-wifi-connection .x00-title-2pFrgc {
+  background-color: transparent;
+  height: 21px;
+  left: 17.33%;
+  letter-spacing: 3.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: calc(49.06% - 10px);
+  width: 66.13%;
+}
+.x06-new-device-wifi-connection .x01-l-eft-2pFrgc {
+  background-color: transparent;
+  bottom: calc(30.77% - 15px);
+  height: 48px;
+  left: 6px;
+  position: absolute;
+  width: 48px;
+}
+.x06-new-device-wifi-connection .x1-label-3rULgT {
+  background-color: transparent;
+  bottom: 49px;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 93.71%;
+}
+.x06-new-device-wifi-connection .x1-label-V8DMId {
+  background-color: transparent;
+  bottom: 49px;
+  height: 16px;
+  left: 0px;
+  letter-spacing: 0.29px;
+  line-height: 10px;
+  position: absolute;
+  text-align: left;
+  width: 93.71%;
+}
+.x06-new-device-wifi-connection .x2-input-V8DMId {
+  background-color: transparent;
+  bottom: 20px;
+  color: var(--white);
+  font-family: var(--font-family-sfuitext-light);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+  height: 23px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 93.71%;
+}

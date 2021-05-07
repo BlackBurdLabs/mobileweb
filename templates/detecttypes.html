@@ -1,0 +1,46 @@
+<html>
+   <body>
+       <div>
+            <button onclick="onClick('Face')" id="Face">Face</button>
+            <button onclick="onClick('Person')" id="Person">Person</button>
+            <button onclick="onClick('Mask')" id="Mask">Mask</button>
+            <button onclick="onClick('Fire')" id="Fire">Fire</button>
+            <button onclick="onClick('Theft')" id="Theft">Theft</button>
+            <button onclick="onClick('Gun')" id="Gun">Gun</button>
+            <button onclick="onClick('Clothing')" id="Clothing">Clothing</button>
+            <button onclick="onClick('ALPR')" id="ALPR">ALPR</button>
+            <button onclick="onClick('Pool')" id="Pool">Pool</button>
+            <button onclick="onClick('Altercation')" id="Altercation">Altercation</button>
+            <button onclick="onClick('Clothing')" id="3Clothing3">Clothing</button>
+            <button onclick="onClick('Fall')" id="Fall">Fall</button>
+        </div>
+        <button onclick="submit()">NEXT</button>
+   </body>
+   <script>
+       let detecttypes = [];
+       function onClick(detecttype) {
+            if(detecttypes.find(item => item === detecttype)){
+                detecttypes = detecttypes.filter(item => item !== detecttype);
+                document.getElementById(detecttype).style.backgroundColor = 'white';
+            }else {
+                detecttypes.push(detecttype)
+                document.getElementById(detecttype).style.backgroundColor = 'green';
+            }
+            console.log(detecttype, detecttypes);
+       }
+       function submit() {
+           fetch('/detecttypes', {
+               method: 'POST',
+               headers: {
+                    'Content-Type': 'application/json'
+               },
+               body: JSON.stringify(detecttypes)
+            }).then(response => {
+                console.log(response);
+                if(response.status === 200) {
+                    location.href = '/cameras';
+                }
+            });
+       }
+   </script>
+</html>
